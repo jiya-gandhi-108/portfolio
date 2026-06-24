@@ -35,8 +35,8 @@ export default function Hero({ isDarkMode }: HeroProps) {
 
   const downloadResume = () => {
     const link = document.createElement('a');
-    link.href = 'Jiya_Gandhi_resume.pdf';
-    link.download = 'Jiya_Gandhi_resume.pdf';
+    link.href = 'Jiya_Gandhi_AI_Automation_Engineer_Resume.pdf';
+    link.download = 'Jiya_Gandhi_AI_Automation_Engineer_Resume.pdf';
     link.click();
   };
 
